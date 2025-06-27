@@ -17,4 +17,5 @@
 - 2 - Второй скачок. К уже 5 миллионам добавляется еще столько же. В консоль опять выводятся: "creating 5000000 objects" и в конце пика - "created".
 - 3 - Третий скачок. Всё то же самое - плюс ещё пять миллионов объектов.
 
-![](\img\visualvmscreen.png "VisualVM Screen")
+![](/img/visualvmscreen.png "VisualVM Screen")
+
